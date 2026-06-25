@@ -16,6 +16,3 @@ else:
     
     print("the number is not panlindrom")
     
-
-    
-    
