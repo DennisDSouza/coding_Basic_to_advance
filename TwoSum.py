@@ -1,0 +1,12 @@
+nums = [2, 7, 11, 15]
+target = 9
+
+d = {}
+
+for i, num in enumerate(nums):
+    diff = target - num
+
+    if diff in d:
+        print(d[diff], i)
+
+    d[num] = i
