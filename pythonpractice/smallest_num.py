@@ -7,3 +7,12 @@ for num in nums:
         smallest = num
 
 print("Smallest:", smallest)
+
+number=[23,2,3,4,5,6]
+smal=number[0]
+for num in number:
+    if num>smal:
+        smal=num
+        
+print("smallest",smal)
+    

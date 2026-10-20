@@ -10,10 +10,10 @@ while num >0:
     
 print(stored)
 
-num=98765
+num=54321
 store=0
 while num>0:
-    digits=num%10
-    store=store*10+digits
+    digit=num%10
+    store=store*10+digit
     num=num//10
 print(store)

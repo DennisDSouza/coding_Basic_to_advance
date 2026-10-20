@@ -7,9 +7,9 @@ for ch in string_ch:
     
 print(stored)
 
-d="dennis"
-store=""
-for chs in d:
-    store=chs+store
-print(store)
+d="denni dsouza"
+s=""
+for gets in d:
+    s=gets+s
+print(s)
 

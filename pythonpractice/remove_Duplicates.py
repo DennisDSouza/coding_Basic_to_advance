@@ -1,4 +1,4 @@
-num=[1,2,3,3,4,5,6]
+num=[1,2,3,3,4,4,5,5,6,6]
 
 result=[]
 
@@ -8,6 +8,7 @@ for nums in num:
         result.append(nums)
         
 print(" the correct nums",result)
+
 
 
 
